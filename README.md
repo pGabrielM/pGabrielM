@@ -12,12 +12,14 @@ Atuo com APIs, arquitetura de software, IAM, CI/CD, automações com IA e aplica
 
 ## Projetos em destaque
 
+Cada repositório abaixo tem testes automatizados, CI (GitHub Actions) e README com arquitetura documentada.
+
 | Projeto | O que demonstra |
 | --- | --- |
-| [Formflow Platform](https://github.com/pGabrielM/formflow-platform) | Aplicação full stack com autenticação, formulários validados e persistência de dados. |
-| [Opsphere](https://github.com/pGabrielM/opsphere-console) | Console operacional React e API TypeScript com JWT, TypeORM e PostgreSQL. |
-| [Pulseboard Realtime](https://github.com/pGabrielM/pulseboard-realtime) | Comunicação em tempo real com React, Socket.IO e PostgreSQL. |
-| [Taskforge](https://github.com/pGabrielM/taskforge-web) | Cliente Next.js e API Laravel/Sanctum para gestão de tarefas. |
+| [Opsphere API](https://github.com/pGabrielM/opsphere-api) + [Console](https://github.com/pGabrielM/opsphere-console) | API Node/TypeScript com JWT, TypeORM e PostgreSQL + console React que a consome — par completo backend/frontend. |
+| [Taskforge API](https://github.com/pGabrielM/taskforge-api) + [Web](https://github.com/pGabrielM/taskforge-web) | API Laravel/Sanctum (27 testes automatizados) + cliente Next.js com Auth.js, num padrão BFF que nunca expõe o token ao browser. |
+| [Pulseboard Realtime](https://github.com/pGabrielM/pulseboard-realtime) | Dashboard em tempo real via PostgreSQL `LISTEN`/`NOTIFY` + Socket.IO — sem polling. |
+| [Formflow Platform](https://github.com/pGabrielM/formflow-platform) | Site + blog com CRUD autenticado (NextAuth, MongoDB). |
 
 ## Contato
 

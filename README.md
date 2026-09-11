@@ -16,6 +16,9 @@ Cada repositório abaixo tem testes automatizados, CI (GitHub Actions) e README 
 
 | Projeto | O que demonstra |
 | --- | --- |
+| [Resume Score AI](https://resume.letinfo.dev) | Produto SaaS com análise de currículo por IA, Auth.js, Stripe, analytics e funil Meta com Pixel + Conversions API. |
+| [Personal Hub](https://hub.letinfo.dev) | Produto financeiro com integração bancária, recorrências, faturas, agenda e tarefas em tempo real. |
+| [Club Score](https://github.com/pGabrielM/club-score) | SaaS de gestão esportiva: multi-tenancy, domínio de performance, treinos, GPS e dashboards para clubes. |
 | [Opsphere API](https://github.com/pGabrielM/opsphere-api) + [Console](https://github.com/pGabrielM/opsphere-console) | API Node/TypeScript com JWT, TypeORM e PostgreSQL + console React que a consome — par completo backend/frontend. |
 | [Taskforge API](https://github.com/pGabrielM/taskforge-api) + [Web](https://github.com/pGabrielM/taskforge-web) | API Laravel/Sanctum (27 testes automatizados) + cliente Next.js com Auth.js, num padrão BFF que nunca expõe o token ao browser. |
 | [Pulseboard Realtime](https://github.com/pGabrielM/pulseboard-realtime) | Dashboard em tempo real via PostgreSQL `LISTEN`/`NOTIFY` + Socket.IO — sem polling. |

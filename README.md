@@ -12,15 +12,30 @@ Atuo com APIs, arquitetura de software, IAM, CI/CD, automações com IA e aplica
 
 ## Projetos em destaque
 
-Cada repositório abaixo tem testes automatizados, CI (GitHub Actions) e README com arquitetura documentada.
+Cada projeto público tem CI no GitHub Actions, README com a arquitetura e uma demonstração no ar.
+
+### Aplicações completas
 
 | Projeto | O que demonstra |
 | --- | --- |
-| [Resume Score AI](https://resume.letinfo.dev) | Produto SaaS com análise de currículo por IA, Auth.js, Stripe, analytics e funil Meta com Pixel + Conversions API. |
-| [Opsphere API](https://github.com/pGabrielM/opsphere-api) + [Console](https://github.com/pGabrielM/opsphere-console) | API Node/TypeScript com JWT, TypeORM e PostgreSQL + console React que a consome — par completo backend/frontend. |
-| [Taskforge API](https://github.com/pGabrielM/taskforge-api) + [Web](https://github.com/pGabrielM/taskforge-web) | API Laravel/Sanctum (27 testes automatizados) + cliente Next.js com Auth.js, num padrão BFF que nunca expõe o token ao browser. |
-| [Pulseboard Realtime](https://github.com/pGabrielM/pulseboard-realtime) | Dashboard em tempo real via PostgreSQL `LISTEN`/`NOTIFY` + Socket.IO — sem polling. |
-| [Formflow Platform](https://github.com/pGabrielM/formflow-platform) | Site + blog com CRUD autenticado (NextAuth, MongoDB). |
+| [Resume Score AI](https://resume.letinfo.dev) | Produto SaaS em produção: análise de currículo por IA, Auth.js, Stripe, analytics e funil Meta com Pixel + Conversions API. *(código privado)* |
+| [Task Forge](https://github.com/pGabrielM/taskforge-web) · [demo](https://taskforge-web-blue.vercel.app/demo) | Gestão de projetos para freelancers: kanban com arrastar e soltar, timer de horas, clientes e portal público para o cliente. |
+| [Form Flow](https://github.com/pGabrielM/formflow-platform) · [demo](https://formflow-platform.vercel.app/demo) | Construtor de formulários com link público, análise de respostas (NPS), CSV e webhooks com proteção contra SSRF. |
+| [Pulse Board](https://github.com/pGabrielM/pulseboard-realtime) · [demo](https://pulseboard-realtime.vercel.app/demo) | Monitor de uptime com painel ao vivo (Server-Sent Events), incidentes automáticos e página de status pública. |
+| [Op Sphere](https://github.com/pGabrielM/opsphere-console) · [demo](https://opsphere-console.vercel.app/demo) | Central de operações para times de TI: catálogo de serviços, runbooks em Markdown, incidentes com linha do tempo e busca global. |
+
+### Back-end
+
+| Projeto | O que demonstra |
+| --- | --- |
+| [Task Forge API](https://github.com/pGabrielM/taskforge-api) | API Laravel 13 com Sanctum, escopo por usuário em toda consulta e 27 testes automatizados. |
+| [Op Sphere API](https://github.com/pGabrielM/opsphere-api) | API Node/TypeScript com Express 5, TypeORM, JWT e PostgreSQL, com testes de autenticação e tratamento de erros. |
+
+### Landing pages
+
+[Clínica Equilíbrio](https://github.com/pGabrielM/clinica-equilibrio) ·
+[Sorriso Vivo](https://github.com/pGabrielM/sorriso-vivo) ·
+[VivaPet](https://github.com/pGabrielM/vivapet) — projetos fictícios de portfólio em Next.js 16, Tailwind CSS 4 e três idiomas.
 
 ## Contato
 

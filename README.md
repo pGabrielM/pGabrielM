@@ -19,10 +19,10 @@ Cada projeto público tem CI no GitHub Actions, README com a arquitetura e uma d
 | Projeto | O que demonstra |
 | --- | --- |
 | [Resume Score AI](https://resume.letinfo.dev) | Produto SaaS em produção: análise de currículo por IA, Auth.js, Stripe, analytics e funil Meta com Pixel + Conversions API. *(código privado)* |
-| [Task Forge](https://github.com/pGabrielM/taskforge-web) · [demo](https://taskforge-web-blue.vercel.app/demo) | Gestão de projetos para freelancers: kanban com arrastar e soltar, timer de horas, clientes e portal público para o cliente. |
-| [Form Flow](https://github.com/pGabrielM/formflow-platform) · [demo](https://formflow-platform.vercel.app/demo) | Construtor de formulários com link público, análise de respostas (NPS), CSV e webhooks com proteção contra SSRF. |
-| [Pulse Board](https://github.com/pGabrielM/pulseboard-realtime) · [demo](https://pulseboard-realtime.vercel.app/demo) | Monitor de uptime com painel ao vivo (Server-Sent Events), incidentes automáticos e página de status pública. |
-| [Op Sphere](https://github.com/pGabrielM/opsphere-console) · [demo](https://opsphere-console.vercel.app/demo) | Central de operações para times de TI: catálogo de serviços, runbooks em Markdown, incidentes com linha do tempo e busca global. |
+| [Task Forge](https://github.com/pGabrielM/taskforge-web) · [demo](https://taskforge.letinfo.dev/demo) | Gestão de projetos para freelancers: kanban com arrastar e soltar, timer de horas, clientes e portal público para o cliente. |
+| [Form Flow](https://github.com/pGabrielM/formflow-platform) · [demo](https://formflow.letinfo.dev/demo) | Construtor de formulários com link público, análise de respostas (NPS), CSV e webhooks com proteção contra SSRF. |
+| [Pulse Board](https://github.com/pGabrielM/pulseboard-realtime) · [demo](https://pulseboard.letinfo.dev/demo) | Monitor de uptime com painel ao vivo (Server-Sent Events), incidentes automáticos e página de status pública. |
+| [Op Sphere](https://github.com/pGabrielM/opsphere-console) · [demo](https://opsphere.letinfo.dev/demo) | Central de operações para times de TI: catálogo de serviços, runbooks em Markdown, incidentes com linha do tempo e busca global. |
 
 ### Back-end
 
